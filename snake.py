@@ -38,7 +38,6 @@ rr = '\x6f'
 slither = aa + db + nn + ef + rr + gh + lr + ty
 print 'Authentication required'
 print ''
-print  chars
 user_input = raw_input('Enter your username\n')
 if user_input == slither:
     pass
